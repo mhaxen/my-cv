@@ -1,8 +1,5 @@
 <template>
   <div class="cv"> 
-   <div class="headline">
-    <h1>Magnus Haxen</h1>
-   </div>
    <div class="intro">
     <div class="section">
       <h2>Hi there!</h2>
@@ -18,7 +15,7 @@
       <h2>Education</h2>
       <ul>
         <li>
-          Bachelor's Degree in Computer Science, Institution, 2021
+          Bachelor's Degree in Computer Science, Aarhus University, 2021
         </li>
       </ul>
     </div>
@@ -40,7 +37,7 @@
       <h2>Work Experience</h2>
       <ul>
         <li>
-          Software Developer, Startup Company, 2021-2022
+          Software Developer, AeroGuest ApS, 2021-2022
         </li>
       </ul>
     </div>
@@ -82,6 +79,9 @@
       <li>Go</li>
       <li>Python</li>
       <li>JavaScript</li>
+      <li>Git</li>
+      <li>Apache Cassandra</li>
+      <li>JanusGraph</li>
       <li>Familiar with the following Python frameworks for machine learning, deep learning, and AI:
         <ul>
           <li>NumPy</li>
@@ -160,11 +160,16 @@ footer {
 }
 
 .intro, .publications, .online_courses, .contact {
-  background-color: #e4f1fe;
+  background-color: #fef1e4;
+}
+
+.education, .work_experience, .skills {
+  background-color: white;
+  opacity: 0.9;
 }
 
 .contact {
-  padding-bottom: 32px;
+  padding-bottom: 238px;
 }
 
 
