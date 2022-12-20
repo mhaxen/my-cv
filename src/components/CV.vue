@@ -24,7 +24,7 @@
     <div class="section">
       <h2>Publications</h2>
       <p>
-        As a computer science student at Aarhus University in Denmark, I chose the topic of developing an authentication scheme for centerpoint queries in multidimensional space as the focus of my bachelor's project. I worked on this project alongside another fellow student, and we spent a significant amount of time researching and studying various algorithms and approaches.
+        As a computer science student at Aarhus University in Denmark, I chose the topic of developing an authentication scheme for centerpoint queries in multidimensional space as the focus of my bachelor's project. I worked on this project alongside another student, and we spent a significant amount of time researching and studying various algorithms and approaches.
         We focused on the algorithm for centerpoint queries on a finite planar set of points, as well as authenticated aggregation R-trees and accompanying authenticated aggregation queries. We also developed methods for finding the centerpoint of a subset of the complete data set and implemented a range-based method.
         Throughout our project, we put in a lot of hard work and dedication, and we were able to come up with a solution that had a time complexity of O(n log n) and a space complexity of O(n). We also conducted an experimental study to confirm the claims made about our proposed solution.
         I am proud to say that our bachelor's project was accepted for publication at the CIKM 2021 conference in Queensland. This was a significant achievement, and it allowed us to share our research with others and to get feedback from the community. We are grateful for the opportunity to contribute to the field of computer science, and we are excited to see where our research will take us in the future. </p>
@@ -40,6 +40,10 @@
    <div class="work_experience">
     <div class="section">
       <h2>Work Experience</h2>
+      <p>
+        During my time at AeroGuest, a software company that specialized in digital solutions for the hospitality industry, I served as a full stack developer and was responsible for driving the development and maintenance of the company's software products. I worked on a variety of projects, including using the Vue.js framework to develop the front-end, using C# to work on the back-end, and creating a graph database of user behavior using JanusGraph.
+        Working at AeroGuest was an exciting and challenging experience. I had the opportunity to collaborate with product designers and other software developers to create innovative solutions that helped hotels to streamline their check-in processes and provide their guests with a convenient digital key system. My technical skills and experience allowed me to make significant contributions to AeroGuest's products and helped the company to continue to push the boundaries of what was possible in the hospitality industry. I am proud of the work I did at AeroGuest and believe it played a key role in the company's success and its ability to provide valuable solutions to its clients.
+      </p>
       <ul>
         <li>
           Software Developer, AeroGuest, 2021-2022
@@ -80,20 +84,16 @@
     <h2>Skills</h2>
     <ul>
       <li>Vue.js</li>
-      <li>C#</li>
+      <li>C# <img class="logo" src="../assets/c-sharp.png" alt=""></li>
       <li>Go</li>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <li>Git</li>
-      <li>Apache Cassandra</li>
       <li>JanusGraph</li>
-      <li>Familiar with the following Python frameworks for machine learning, deep learning, and AI:
+      <li>Python <img class="logo" src="../assets/python.png" alt="">
         <ul>
           <li>NumPy</li>
           <li>Pandas</li>
           <li>Scikit-learn</li>
           <li>TensorFlow</li>
-          <li>PyTorch</li>
+          <li>PyTorch </li>
           <li>Keras</li>
         </ul>
       </li>
@@ -105,7 +105,7 @@
       <h2>Contact</h2>
       <ul>
         <li>Email: magnushaxen97@gmail.com</li>
-        <li>Phone: +45 51 32 67 15</li>
+        <li>Phone: (+45) 51 32 67 15</li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/magnushaxen/">www.linkedin.com/in/magnushaxen/</a></li>
       </ul>
     </div>
@@ -176,5 +176,9 @@ footer {
   padding-bottom: 238px;
 }
 
+.logo {
+  width: 20px;
+  height: 20px;
+}
 
 </style>

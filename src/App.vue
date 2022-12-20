@@ -50,6 +50,7 @@ body {
 
 .headline {
   color: #fef1e4;
+  font-family: Cursive;
 }
 
 .header {
