@@ -23,6 +23,11 @@
    <div class="publications">
     <div class="section">
       <h2>Publications</h2>
+      <p>
+        As a computer science student at Aarhus University in Denmark, I chose the topic of developing an authentication scheme for centerpoint queries in multidimensional space as the focus of my bachelor's project. I worked on this project alongside another fellow student, and we spent a significant amount of time researching and studying various algorithms and approaches.
+        We focused on the algorithm for centerpoint queries on a finite planar set of points, as well as authenticated aggregation R-trees and accompanying authenticated aggregation queries. We also developed methods for finding the centerpoint of a subset of the complete data set and implemented a range-based method.
+        Throughout our project, we put in a lot of hard work and dedication, and we were able to come up with a solution that had a time complexity of O(n log n) and a space complexity of O(n). We also conducted an experimental study to confirm the claims made about our proposed solution.
+        I am proud to say that our bachelor's project was accepted for publication at the CIKM 2021 conference in Queensland. This was a significant achievement, and it allowed us to share our research with others and to get feedback from the community. We are grateful for the opportunity to contribute to the field of computer science, and we are excited to see where our research will take us in the future. </p>
       <ul>
         <li>
           <a href="https://dl.acm.org/doi/10.1145/3459637.3482072">
@@ -37,7 +42,7 @@
       <h2>Work Experience</h2>
       <ul>
         <li>
-          Software Developer, AeroGuest ApS, 2021-2022
+          Software Developer, AeroGuest, 2021-2022
         </li>
       </ul>
     </div>
@@ -136,7 +141,7 @@ body {
 
 /* Add a nice blue color to links */
 a {
-  color: #0077c9;
+  color: #4565c3;
   text-decoration: none;
 }
 a:hover {

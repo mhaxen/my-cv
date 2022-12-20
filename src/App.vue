@@ -1,7 +1,8 @@
 <template>
   <div class="header">
     <img alt="Vue logo" src="./assets/profile.png" class="profile_pic">
-    <h1>Magnus Haxen</h1>
+    <h1 class="headline">Magnus Haxen</h1>
+    <h2 class="headline">Curriculum Vitae</h2>
   </div>
   <CV msg="Welcome to Your Vue.js App"/>
 </template>
@@ -39,9 +40,15 @@ body {
   border-radius: 50%; /* This will make the image a circle */
   height: 240px; /* You can adjust the size of the image by changing the height and width values */
   width: 240px;
+  transition: 0.5s;
 }
 
-h1 {
+.profile_pic:hover {
+  height: 290px; /* You can adjust the size of the image by changing the height and width values */
+  width: 290px;
+}
+
+.headline {
   color: #fef1e4;
 }
 
