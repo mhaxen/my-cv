@@ -145,7 +145,6 @@ a:hover {
 
 /* Style the headings */
 h1, h2, h3 {
-  color: #333;
   font-weight: bold;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -161,11 +160,11 @@ footer {
 
 .intro, .publications, .online_courses, .contact {
   background-color: #fef1e4;
+  opacity: 0.9;
 }
 
 .education, .work_experience, .skills {
-  background-color: white;
-  opacity: 0.9;
+  color: #fef1e4;
 }
 
 .contact {

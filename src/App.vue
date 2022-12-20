@@ -42,7 +42,7 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #fef1e4;
 }
 
 .header {
