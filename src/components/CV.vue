@@ -40,15 +40,14 @@
    <div class="work_experience">
     <div class="section">
       <h2>Work Experience</h2>
-      <p>
-        During my time at AeroGuest, a software company that specialized in digital solutions for the hospitality industry, I served as a full stack developer and was responsible for driving the development and maintenance of the company's software products. I worked on a variety of projects, including using the Vue.js framework to develop the front-end, using C# to work on the back-end, and creating a graph database of user behavior using JanusGraph.
-        Working at AeroGuest was an exciting and challenging experience. I had the opportunity to collaborate with product designers and other software developers to create innovative solutions that helped hotels to streamline their check-in processes and provide their guests with a convenient digital key system. My technical skills and experience allowed me to make significant contributions to AeroGuest's products and helped the company to continue to push the boundaries of what was possible in the hospitality industry. I am proud of the work I did at AeroGuest and believe it played a key role in the company's success and its ability to provide valuable solutions to its clients.
-      </p>
       <ul>
         <li>
           Software Developer, AeroGuest, 2021-2022
         </li>
       </ul>
+      <p>
+        During my time at AeroGuest, I had the opportunity to work as a full stack developer and contribute to the development and maintenance of the company's software products. This was my first job in the tech industry, and I was grateful for the chance to learn and grow as a software developer. I worked on a variety of projects using technologies such as Vue.js, C#, and JanusGraph. Working at AeroGuest was a valuable learning experience for me, and I am grateful for the opportunity to have contributed to the company's products and my personal growth as a software developer.  
+      </p>
     </div>
    </div>
    <div class="online_courses">
